@@ -1,0 +1,12 @@
+/*Title*/
+#title{
+    height: 180px;
+    background-color: #FFFDD0;
+    text-align: center;
+    font-size: larger;
+    line-height: 80px;
+}
+#title img{
+    height: 170px;
+    float: center;
+}

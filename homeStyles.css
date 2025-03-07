@@ -1,0 +1,23 @@
+/*Title*/
+#title{
+    height: 180px;
+    background-color: #FFFDD0;
+    text-align: center;
+    font-size: larger;
+    line-height: 80px;
+}
+#title img{
+    height: 170px;
+    float: center;
+}
+
+#text{
+
+    font-size: 20px;
+    margin-left: 20px;
+}
+#image1{
+    height: 170px;
+    float: left;
+    margin-right: 20px;
+}
